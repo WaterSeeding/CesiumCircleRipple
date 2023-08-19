@@ -4,8 +4,8 @@
 >
 > 以下是我绘制的一个水波圈案例，它虽然是通过 Ellipse 来绘制的，但是还需要额外自定义 GLSL 效果。
 >
-> - [查看地址](https://cesium-flowing-line.vercel.app/)
-> - [仓库地址](https://github.com/WaterSeeding/CesiumFlowingLine)
+> - [查看地址](https://cesium-circle-ripple.vercel.app/)
+> - [仓库地址](https://github.com/WaterSeeding/CesiumCircleRipple)
 
 <br />
 
